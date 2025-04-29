@@ -7,6 +7,7 @@ def clean_title(title):
     # replace 
     cleaned_title = re.sub(r'Implementering af programmeringssprog', r'IPS', title) 
     cleaned_title = re.sub(r'Databases and Information Systems', r'DIS', cleaned_title)
+    cleaned_title = re.sub(r'Algoritmer og Datastrukturer', r'AD', cleaned_title)
     # remove everythng until the first ;
     cleaned_title = re.sub(r'^[^;]*;', '', cleaned_title)
     # replace with either lecutre or exerise
