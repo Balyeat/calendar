@@ -1,5 +1,8 @@
 name: Run daily job and push changes
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: '0 0 * * *'  # Every day at midnight UTC
@@ -11,9 +14,7 @@ jobs:
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
-        with:
-          persist-credentials: true  # Required for pushing changes
+        uses: actions/checkout@v4
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -28,14 +29,10 @@ jobs:
 
       - name: Commit and push changes
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add .
-          git commit -m "Daily update [auto]" || echo "No changes to commit"
-          git push https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git HEAD:main
-
           git add .
           git commit -m "Daily update [auto]" || echo "No changes to commit"
           git push
