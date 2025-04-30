@@ -156,6 +156,41 @@ X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
  t of the final project submission.</p>
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20250430T055200Z
+UID:event-assignment-237556
+DTSTART;VALUE=DATE;VALUE=DATE:20250507
+CLASS:PUBLIC
+DESCRIPTION:The assignment text (in html format) is in [assignment2.html] 
+ (https://absalon.instructure.com/courses/80788/files/9550673?wrap=1). Plea
+ se read the submission-format instructions carefully.\n\nThe handed-out co
+ de skeletons are in [code.zip] (https://absalon.instructure.com/courses/80
+ 788/files/9550680?wrap=1).\n\n[This submission point will open shortly.]
+SEQUENCE:0
+SUMMARY:Weekly-2 [5100-B4-4F25\;Implementering af programmeringssprog]
+URL;VALUE=URI:https://absalon.instructure.com/calendar?include_contexts=cou
+ rse_80788&month=05&year=2025#assignment_237556
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
+ re-uploads-eu.s3-eu-west-1.amazonaws.com/account_75000000000000001/attachm
+ ents/12157/ku.css?AWSAccessKeyId=AKIAJE5F5SJN3PUW3VNQ&amp\;Expires=1935550
+ 004&amp\;Signature=o5N8bL80JiimMi8No2Nn8uhsP0s%3D&amp\;response-cache-cont
+ rol=Cache-Control%3Amax-age%3D473364000%2C%20public&amp\;response-expires=
+ 473364000"><p>The assignment text (in html format) is in&nbsp\;<span class
+ ="instructure_file_holder link_holder instructure_file_link_holder"><a cla
+ ss="instructure_file_link inline_disabled" title="assignment2.html" href="
+ https://absalon.instructure.com/courses/80788/files/9550673?wrap=1" target
+ ="_blank" data-api-endpoint="https://absalon.instructure.com/api/v1/course
+ s/80788/files/9550673" data-api-returntype="File">assignment2.html</a>. </
+ span>Please read the submission-format instructions carefully.</p>\n<p>The
+  handed-out code skeletons are in <a class="instructure_file_link inline_d
+ isabled" title="code.zip" href="https://absalon.instructure.com/courses/80
+ 788/files/9550680?wrap=1" target="_blank" data-api-endpoint="https://absal
+ on.instructure.com/api/v1/courses/80788/files/9550680" data-api-returntype
+ ="File">code.zip</a><span><span class="instructure_file_holder link_holder
+  instructure_file_link_holder">.</span></span></p>\n<p><span><span class="
+ instructure_file_holder link_holder instructure_file_link_holder">[This su
+ bmission point will open shortly.]</span></span></p>
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20250428T170000Z
 UID:event-calendar-event-193468
 DTSTART:20250508T215900Z
