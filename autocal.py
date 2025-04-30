@@ -1,5 +1,6 @@
 import requests
 import re
+import os
 
 def clean_title(title):
     """Clean the event title by removing unwanted parts."""
@@ -107,3 +108,13 @@ downloaded_ical_assignments = download_ical(assignments_url, "latest_calendar_as
 if downloaded_ical_assignments:
     process_ical_assignments(downloaded_ical_assignments, "cleaned_calendar_assignments.ics")
     print("Processed iCal file for assignments saved as cleaned_calendar_assignments.ics")
+
+# Remove downloaded calendar files on exit
+try:
+    if downloaded_ical_lectures and os.path.exists(downloaded_ical_lectures):
+        os.remove(downloaded_ical_lectures)
+    if downloaded_ical_assignments and os.path.exists(downloaded_ical_assignments):
+        os.remove(downloaded_ical_assignments)
+    print("Temporary downloaded calendar files removed.")
+except Exception as e:
+    print(f"Error removing temporary files: {e}")
