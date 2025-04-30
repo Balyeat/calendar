@@ -72,36 +72,6 @@ BEGIN:VEVENT
 DTSTART;TZID=Europe/Copenhagen:20240903T100000
 DTEND;TZID=Europe/Copenhagen:20240903T120000
 DTSTAMP:20250429T150056
-UID:60495DF69F90CDEC5FD9B3CABCC0ED68                                                                                                                                                                                                                                                                                                20240903T10000020250429T150056
-CLASS:PUBLIC
-CREATED:20250429T150056
-LAST-MODIFIED:20250429T150056
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:5100-B1-1E24;Matematisk analyse og sandsynlighedsteori i datalogi (MASD) - Teoretiske øvelser/theoretical exercises
-DESCRIPTION:Aktivitet / Activity: Matematisk analyse og sandsynlighedsteori i datalogi (MASD).\nBeskrivelse / Description:Hold 4.\nUndervisningstype / Activity Type: Teoretiske øvelser/theoretical exercises.\nUnderviser / Staff: Sommer, Stefan.\nLokale / Room: øv - 1-0-22, Universitetsparken 1-3, DIKU: Universitetsparken 1-3 / DIKU.\nHold / Student Set: Hold 01;
-LOCATION:øv - 1-0-22, Universitetsparken 1-3, DIKU: Universitetsparken 1-3 / DIKU
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Copenhagen:20240903T100000
-DTEND;TZID=Europe/Copenhagen:20240903T120000
-DTSTAMP:20250429T150056
-UID:60495DF69F90CDEC5FD9B3CABCC0ED66                                                                                                                                                                                                                                                                                                20240903T10000020250429T150056
-CLASS:PUBLIC
-CREATED:20250429T150056
-LAST-MODIFIED:20250429T150056
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:5100-B1-1E24;Matematisk analyse og sandsynlighedsteori i datalogi (MASD) - Teoretiske øvelser/theoretical exercises
-DESCRIPTION:Aktivitet / Activity: Matematisk analyse og sandsynlighedsteori i datalogi (MASD).\nBeskrivelse / Description:Hold 3.\nUndervisningstype / Activity Type: Teoretiske øvelser/theoretical exercises.\nUnderviser / Staff: Sommer, Stefan.\nLokale / Room: øv - 1-0-18, Universitetsparken 1-3, DIKU: Universitetsparken 1-3 / DIKU.\nHold / Student Set: Hold 01;
-LOCATION:øv - 1-0-18, Universitetsparken 1-3, DIKU: Universitetsparken 1-3 / DIKU
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Copenhagen:20240903T100000
-DTEND;TZID=Europe/Copenhagen:20240903T120000
-DTSTAMP:20250429T150056
 UID:60495DF69F90CDEC5FD9B3CABCC0ED6A                                                                                                                                                                                                                                                                                                20240903T10000020250429T150056
 CLASS:PUBLIC
 CREATED:20250429T150056
@@ -141,6 +111,36 @@ STATUS:CONFIRMED
 SUMMARY:5100-B1-1E24;Matematisk analyse og sandsynlighedsteori i datalogi (MASD) - Teoretiske øvelser/theoretical exercises
 DESCRIPTION:Aktivitet / Activity: Matematisk analyse og sandsynlighedsteori i datalogi (MASD).\nBeskrivelse / Description:Hold 2.\nUndervisningstype / Activity Type: Teoretiske øvelser/theoretical exercises.\nUnderviser / Staff: Sommer, Stefan.\nLokale / Room: øv - 1-0-26, Universitetsparken 1-3, DIKU: Universitetsparken 1-3 / DIKU.\nHold / Student Set: Hold 01;
 LOCATION:øv - 1-0-26, Universitetsparken 1-3, DIKU: Universitetsparken 1-3 / DIKU
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20240903T100000
+DTEND;TZID=Europe/Copenhagen:20240903T120000
+DTSTAMP:20250429T150056
+UID:60495DF69F90CDEC5FD9B3CABCC0ED68                                                                                                                                                                                                                                                                                                20240903T10000020250429T150056
+CLASS:PUBLIC
+CREATED:20250429T150056
+LAST-MODIFIED:20250429T150056
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5100-B1-1E24;Matematisk analyse og sandsynlighedsteori i datalogi (MASD) - Teoretiske øvelser/theoretical exercises
+DESCRIPTION:Aktivitet / Activity: Matematisk analyse og sandsynlighedsteori i datalogi (MASD).\nBeskrivelse / Description:Hold 4.\nUndervisningstype / Activity Type: Teoretiske øvelser/theoretical exercises.\nUnderviser / Staff: Sommer, Stefan.\nLokale / Room: øv - 1-0-22, Universitetsparken 1-3, DIKU: Universitetsparken 1-3 / DIKU.\nHold / Student Set: Hold 01;
+LOCATION:øv - 1-0-22, Universitetsparken 1-3, DIKU: Universitetsparken 1-3 / DIKU
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20240903T100000
+DTEND;TZID=Europe/Copenhagen:20240903T120000
+DTSTAMP:20250429T150056
+UID:60495DF69F90CDEC5FD9B3CABCC0ED66                                                                                                                                                                                                                                                                                                20240903T10000020250429T150056
+CLASS:PUBLIC
+CREATED:20250429T150056
+LAST-MODIFIED:20250429T150056
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5100-B1-1E24;Matematisk analyse og sandsynlighedsteori i datalogi (MASD) - Teoretiske øvelser/theoretical exercises
+DESCRIPTION:Aktivitet / Activity: Matematisk analyse og sandsynlighedsteori i datalogi (MASD).\nBeskrivelse / Description:Hold 3.\nUndervisningstype / Activity Type: Teoretiske øvelser/theoretical exercises.\nUnderviser / Staff: Sommer, Stefan.\nLokale / Room: øv - 1-0-18, Universitetsparken 1-3, DIKU: Universitetsparken 1-3 / DIKU.\nHold / Student Set: Hold 01;
+LOCATION:øv - 1-0-18, Universitetsparken 1-3, DIKU: Universitetsparken 1-3 / DIKU
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -207,21 +207,6 @@ BEGIN:VEVENT
 DTSTART;TZID=Europe/Copenhagen:20240905T130000
 DTEND;TZID=Europe/Copenhagen:20240905T160000
 DTSTAMP:20250429T150056
-UID:60495DF69F90CDEC5FD9B3CABCC0EDE4                                                                                                                                                                                                                                                                                                20240905T13000020250429T150056
-CLASS:PUBLIC
-CREATED:20250429T150056
-LAST-MODIFIED:20250429T150056
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:5100-B1-1E24;Matematisk analyse og sandsynlighedsteori i datalogi (MASD) - Teoretiske øvelser/theoretical exercises
-DESCRIPTION:Aktivitet / Activity: Matematisk analyse og sandsynlighedsteori i datalogi (MASD).\nBeskrivelse / Description:Hold 05.\nUndervisningstype / Activity Type: Teoretiske øvelser/theoretical exercises.\nUnderviser / Staff: Sommer, Stefan.\nLokale / Room: øv - 3-0-25, Universitetsparken 1-3, DIKU: Universitetsparken 1-3 / DIKU.\nHold / Student Set: Hold 01;
-LOCATION:øv - 3-0-25, Universitetsparken 1-3, DIKU: Universitetsparken 1-3 / DIKU
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Copenhagen:20240905T130000
-DTEND;TZID=Europe/Copenhagen:20240905T160000
-DTSTAMP:20250429T150056
 UID:60495DF69F90CDEC5FD9B3CABCC0EDE2                                                                                                                                                                                                                                                                                                20240905T13000020250429T150056
 CLASS:PUBLIC
 CREATED:20250429T150056
@@ -276,6 +261,21 @@ STATUS:CONFIRMED
 SUMMARY:5100-B1-1E24;Matematisk analyse og sandsynlighedsteori i datalogi (MASD) - Teoretiske øvelser/theoretical exercises
 DESCRIPTION:Aktivitet / Activity: Matematisk analyse og sandsynlighedsteori i datalogi (MASD).\nBeskrivelse / Description:Hold 2.\nUndervisningstype / Activity Type: Teoretiske øvelser/theoretical exercises.\nUnderviser / Staff: Sommer, Stefan.\nLokale / Room: øv - 4-0-13, Ole Maaløes Vej 5, Biocenter: Ole Maaløes Vej 5 / Biocentret.\nHold / Student Set: Hold 01;
 LOCATION:øv - 4-0-13, Ole Maaløes Vej 5, Biocenter: Ole Maaløes Vej 5 / Biocentret
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20240905T130000
+DTEND;TZID=Europe/Copenhagen:20240905T160000
+DTSTAMP:20250429T150056
+UID:60495DF69F90CDEC5FD9B3CABCC0EDE4                                                                                                                                                                                                                                                                                                20240905T13000020250429T150056
+CLASS:PUBLIC
+CREATED:20250429T150056
+LAST-MODIFIED:20250429T150056
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5100-B1-1E24;Matematisk analyse og sandsynlighedsteori i datalogi (MASD) - Teoretiske øvelser/theoretical exercises
+DESCRIPTION:Aktivitet / Activity: Matematisk analyse og sandsynlighedsteori i datalogi (MASD).\nBeskrivelse / Description:Hold 05.\nUndervisningstype / Activity Type: Teoretiske øvelser/theoretical exercises.\nUnderviser / Staff: Sommer, Stefan.\nLokale / Room: øv - 3-0-25, Universitetsparken 1-3, DIKU: Universitetsparken 1-3 / DIKU.\nHold / Student Set: Hold 01;
+LOCATION:øv - 3-0-25, Universitetsparken 1-3, DIKU: Universitetsparken 1-3 / DIKU
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -762,21 +762,6 @@ BEGIN:VEVENT
 DTSTART;TZID=Europe/Copenhagen:20240919T130000
 DTEND;TZID=Europe/Copenhagen:20240919T160000
 DTSTAMP:20250429T150056
-UID:60495DF69F90CDEC5FD9B3CABCC0EDE2                                                                                                                                                                                                                                                                                                20240919T13000020250429T150056
-CLASS:PUBLIC
-CREATED:20250429T150056
-LAST-MODIFIED:20250429T150056
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:5100-B1-1E24;Matematisk analyse og sandsynlighedsteori i datalogi (MASD) - Teoretiske øvelser/theoretical exercises
-DESCRIPTION:Aktivitet / Activity: Matematisk analyse og sandsynlighedsteori i datalogi (MASD).\nBeskrivelse / Description:Hold 4.\nUndervisningstype / Activity Type: Teoretiske øvelser/theoretical exercises.\nUnderviser / Staff: Sommer, Stefan.\nLokale / Room: øv - Auditorium Syd, Nørre Alle 51, NEXS: Nørre Allè 51-57.\nHold / Student Set: Hold 01;
-LOCATION:øv - Auditorium Syd, Nørre Alle 51, NEXS: Nørre Allè 51-57
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Copenhagen:20240919T130000
-DTEND;TZID=Europe/Copenhagen:20240919T160000
-DTSTAMP:20250429T150056
 UID:60495DF69F90CDEC5FD9B3CABCC0EDDE                                                                                                                                                                                                                                                                                                20240919T13000020250429T150056
 CLASS:PUBLIC
 CREATED:20250429T150056
@@ -831,6 +816,21 @@ STATUS:CONFIRMED
 SUMMARY:5100-B1-1E24;Matematisk analyse og sandsynlighedsteori i datalogi (MASD) - Teoretiske øvelser/theoretical exercises
 DESCRIPTION:Aktivitet / Activity: Matematisk analyse og sandsynlighedsteori i datalogi (MASD).\nBeskrivelse / Description:Hold 05.\nUndervisningstype / Activity Type: Teoretiske øvelser/theoretical exercises.\nUnderviser / Staff: Sommer, Stefan.\nLokale / Room: øv - 3-0-25, Universitetsparken 1-3, DIKU: Universitetsparken 1-3 / DIKU.\nHold / Student Set: Hold 01;
 LOCATION:øv - 3-0-25, Universitetsparken 1-3, DIKU: Universitetsparken 1-3 / DIKU
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20240919T130000
+DTEND;TZID=Europe/Copenhagen:20240919T160000
+DTSTAMP:20250429T150056
+UID:60495DF69F90CDEC5FD9B3CABCC0EDE2                                                                                                                                                                                                                                                                                                20240919T13000020250429T150056
+CLASS:PUBLIC
+CREATED:20250429T150056
+LAST-MODIFIED:20250429T150056
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5100-B1-1E24;Matematisk analyse og sandsynlighedsteori i datalogi (MASD) - Teoretiske øvelser/theoretical exercises
+DESCRIPTION:Aktivitet / Activity: Matematisk analyse og sandsynlighedsteori i datalogi (MASD).\nBeskrivelse / Description:Hold 4.\nUndervisningstype / Activity Type: Teoretiske øvelser/theoretical exercises.\nUnderviser / Staff: Sommer, Stefan.\nLokale / Room: øv - Auditorium Syd, Nørre Alle 51, NEXS: Nørre Allè 51-57.\nHold / Student Set: Hold 01;
+LOCATION:øv - Auditorium Syd, Nørre Alle 51, NEXS: Nørre Allè 51-57
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -1047,21 +1047,6 @@ BEGIN:VEVENT
 DTSTART;TZID=Europe/Copenhagen:20240926T130000
 DTEND;TZID=Europe/Copenhagen:20240926T160000
 DTSTAMP:20250429T150056
-UID:60495DF69F90CDEC5FD9B3CABCC0EDE0                                                                                                                                                                                                                                                                                                20240926T13000020250429T150056
-CLASS:PUBLIC
-CREATED:20250429T150056
-LAST-MODIFIED:20250429T150056
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:5100-B1-1E24;Matematisk analyse og sandsynlighedsteori i datalogi (MASD) - Teoretiske øvelser/theoretical exercises
-DESCRIPTION:Aktivitet / Activity: Matematisk analyse og sandsynlighedsteori i datalogi (MASD).\nBeskrivelse / Description:Hold 03.\nUndervisningstype / Activity Type: Teoretiske øvelser/theoretical exercises.\nUnderviser / Staff: Sommer, Stefan.\nLokale / Room: øv - AB Teori 2, Nørre Alle 55, NEXS: Nørre Allè 51-57.\nHold / Student Set: Hold 01;
-LOCATION:øv - AB Teori 2, Nørre Alle 55, NEXS: Nørre Allè 51-57
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Copenhagen:20240926T130000
-DTEND;TZID=Europe/Copenhagen:20240926T160000
-DTSTAMP:20250429T150056
 UID:60495DF69F90CDEC5FD9B3CABCC0EDDE                                                                                                                                                                                                                                                                                                20240926T13000020250429T150056
 CLASS:PUBLIC
 CREATED:20250429T150056
@@ -1116,6 +1101,21 @@ STATUS:CONFIRMED
 SUMMARY:5100-B1-1E24;Matematisk analyse og sandsynlighedsteori i datalogi (MASD) - Teoretiske øvelser/theoretical exercises
 DESCRIPTION:Aktivitet / Activity: Matematisk analyse og sandsynlighedsteori i datalogi (MASD).\nBeskrivelse / Description:Hold 01.\nUndervisningstype / Activity Type: Teoretiske øvelser/theoretical exercises.\nUnderviser / Staff: Sommer, Stefan.\nLokale / Room: øv - 4-0-05, Ole Maaløes Vej 5, Biocenter: Ole Maaløes Vej 5 / Biocentret.\nHold / Student Set: Hold 01;
 LOCATION:øv - 4-0-05, Ole Maaløes Vej 5, Biocenter: Ole Maaløes Vej 5 / Biocentret
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20240926T130000
+DTEND;TZID=Europe/Copenhagen:20240926T160000
+DTSTAMP:20250429T150056
+UID:60495DF69F90CDEC5FD9B3CABCC0EDE0                                                                                                                                                                                                                                                                                                20240926T13000020250429T150056
+CLASS:PUBLIC
+CREATED:20250429T150056
+LAST-MODIFIED:20250429T150056
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5100-B1-1E24;Matematisk analyse og sandsynlighedsteori i datalogi (MASD) - Teoretiske øvelser/theoretical exercises
+DESCRIPTION:Aktivitet / Activity: Matematisk analyse og sandsynlighedsteori i datalogi (MASD).\nBeskrivelse / Description:Hold 03.\nUndervisningstype / Activity Type: Teoretiske øvelser/theoretical exercises.\nUnderviser / Staff: Sommer, Stefan.\nLokale / Room: øv - AB Teori 2, Nørre Alle 55, NEXS: Nørre Allè 51-57.\nHold / Student Set: Hold 01;
+LOCATION:øv - AB Teori 2, Nørre Alle 55, NEXS: Nørre Allè 51-57
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -1212,36 +1212,6 @@ BEGIN:VEVENT
 DTSTART;TZID=Europe/Copenhagen:20241001T100000
 DTEND;TZID=Europe/Copenhagen:20241001T120000
 DTSTAMP:20250429T150056
-UID:60495DF69F90CDEC5FD9B3CABCC0ED66                                                                                                                                                                                                                                                                                                20241001T10000020250429T150056
-CLASS:PUBLIC
-CREATED:20250429T150056
-LAST-MODIFIED:20250429T150056
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:5100-B1-1E24;Matematisk analyse og sandsynlighedsteori i datalogi (MASD) - Teoretiske øvelser/theoretical exercises
-DESCRIPTION:Aktivitet / Activity: Matematisk analyse og sandsynlighedsteori i datalogi (MASD).\nBeskrivelse / Description:Hold 3.\nUndervisningstype / Activity Type: Teoretiske øvelser/theoretical exercises.\nUnderviser / Staff: Sommer, Stefan.\nLokale / Room: øv - 1-0-18, Universitetsparken 1-3, DIKU: Universitetsparken 1-3 / DIKU.\nHold / Student Set: Hold 01;
-LOCATION:øv - 1-0-18, Universitetsparken 1-3, DIKU: Universitetsparken 1-3 / DIKU
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Copenhagen:20241001T100000
-DTEND;TZID=Europe/Copenhagen:20241001T120000
-DTSTAMP:20250429T150056
-UID:60495DF69F90CDEC5FD9B3CABCC0ED6A                                                                                                                                                                                                                                                                                                20241001T10000020250429T150056
-CLASS:PUBLIC
-CREATED:20250429T150056
-LAST-MODIFIED:20250429T150056
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:5100-B1-1E24;Matematisk analyse og sandsynlighedsteori i datalogi (MASD) - Teoretiske øvelser/theoretical exercises
-DESCRIPTION:Aktivitet / Activity: Matematisk analyse og sandsynlighedsteori i datalogi (MASD).\nBeskrivelse / Description:Hold 05.\nUndervisningstype / Activity Type: Teoretiske øvelser/theoretical exercises.\nUnderviser / Staff: Sommer, Stefan.\nLokale / Room: øv - 1-0-10, Universitetsparken 1-3, DIKU: Universitetsparken 1-3 / DIKU.\nHold / Student Set: Hold 01;
-LOCATION:øv - 1-0-10, Universitetsparken 1-3, DIKU: Universitetsparken 1-3 / DIKU
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Copenhagen:20241001T100000
-DTEND;TZID=Europe/Copenhagen:20241001T120000
-DTSTAMP:20250429T150056
 UID:60495DF69F90CDEC5FD9B3CABCC0ED68                                                                                                                                                                                                                                                                                                20241001T10000020250429T150056
 CLASS:PUBLIC
 CREATED:20250429T150056
@@ -1266,6 +1236,36 @@ STATUS:CONFIRMED
 SUMMARY:5100-B1-1E24;Matematisk analyse og sandsynlighedsteori i datalogi (MASD) - Teoretiske øvelser/theoretical exercises
 DESCRIPTION:Aktivitet / Activity: Matematisk analyse og sandsynlighedsteori i datalogi (MASD).\nBeskrivelse / Description:Hold 2.\nUndervisningstype / Activity Type: Teoretiske øvelser/theoretical exercises.\nUnderviser / Staff: Sommer, Stefan.\nLokale / Room: øv - 1-0-26, Universitetsparken 1-3, DIKU: Universitetsparken 1-3 / DIKU.\nHold / Student Set: Hold 01;
 LOCATION:øv - 1-0-26, Universitetsparken 1-3, DIKU: Universitetsparken 1-3 / DIKU
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20241001T100000
+DTEND;TZID=Europe/Copenhagen:20241001T120000
+DTSTAMP:20250429T150056
+UID:60495DF69F90CDEC5FD9B3CABCC0ED66                                                                                                                                                                                                                                                                                                20241001T10000020250429T150056
+CLASS:PUBLIC
+CREATED:20250429T150056
+LAST-MODIFIED:20250429T150056
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5100-B1-1E24;Matematisk analyse og sandsynlighedsteori i datalogi (MASD) - Teoretiske øvelser/theoretical exercises
+DESCRIPTION:Aktivitet / Activity: Matematisk analyse og sandsynlighedsteori i datalogi (MASD).\nBeskrivelse / Description:Hold 3.\nUndervisningstype / Activity Type: Teoretiske øvelser/theoretical exercises.\nUnderviser / Staff: Sommer, Stefan.\nLokale / Room: øv - 1-0-18, Universitetsparken 1-3, DIKU: Universitetsparken 1-3 / DIKU.\nHold / Student Set: Hold 01;
+LOCATION:øv - 1-0-18, Universitetsparken 1-3, DIKU: Universitetsparken 1-3 / DIKU
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20241001T100000
+DTEND;TZID=Europe/Copenhagen:20241001T120000
+DTSTAMP:20250429T150056
+UID:60495DF69F90CDEC5FD9B3CABCC0ED6A                                                                                                                                                                                                                                                                                                20241001T10000020250429T150056
+CLASS:PUBLIC
+CREATED:20250429T150056
+LAST-MODIFIED:20250429T150056
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5100-B1-1E24;Matematisk analyse og sandsynlighedsteori i datalogi (MASD) - Teoretiske øvelser/theoretical exercises
+DESCRIPTION:Aktivitet / Activity: Matematisk analyse og sandsynlighedsteori i datalogi (MASD).\nBeskrivelse / Description:Hold 05.\nUndervisningstype / Activity Type: Teoretiske øvelser/theoretical exercises.\nUnderviser / Staff: Sommer, Stefan.\nLokale / Room: øv - 1-0-10, Universitetsparken 1-3, DIKU: Universitetsparken 1-3 / DIKU.\nHold / Student Set: Hold 01;
+LOCATION:øv - 1-0-10, Universitetsparken 1-3, DIKU: Universitetsparken 1-3 / DIKU
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -1497,21 +1497,6 @@ BEGIN:VEVENT
 DTSTART;TZID=Europe/Copenhagen:20241008T100000
 DTEND;TZID=Europe/Copenhagen:20241008T120000
 DTSTAMP:20250429T150056
-UID:60495DF69F90CDEC5FD9B3CABCC0ED64                                                                                                                                                                                                                                                                                                20241008T10000020250429T150056
-CLASS:PUBLIC
-CREATED:20250429T150056
-LAST-MODIFIED:20250429T150056
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:5100-B1-1E24;Matematisk analyse og sandsynlighedsteori i datalogi (MASD) - Teoretiske øvelser/theoretical exercises
-DESCRIPTION:Aktivitet / Activity: Matematisk analyse og sandsynlighedsteori i datalogi (MASD).\nBeskrivelse / Description:Hold 2.\nUndervisningstype / Activity Type: Teoretiske øvelser/theoretical exercises.\nUnderviser / Staff: Sommer, Stefan.\nLokale / Room: øv - 1-0-26, Universitetsparken 1-3, DIKU: Universitetsparken 1-3 / DIKU.\nHold / Student Set: Hold 01;
-LOCATION:øv - 1-0-26, Universitetsparken 1-3, DIKU: Universitetsparken 1-3 / DIKU
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Copenhagen:20241008T100000
-DTEND;TZID=Europe/Copenhagen:20241008T120000
-DTSTAMP:20250429T150056
 UID:60495DF69F90CDEC5FD9B3CABCC0ED68                                                                                                                                                                                                                                                                                                20241008T10000020250429T150056
 CLASS:PUBLIC
 CREATED:20250429T150056
@@ -1551,6 +1536,21 @@ STATUS:CONFIRMED
 SUMMARY:5100-B1-1E24;Matematisk analyse og sandsynlighedsteori i datalogi (MASD) - Teoretiske øvelser/theoretical exercises
 DESCRIPTION:Aktivitet / Activity: Matematisk analyse og sandsynlighedsteori i datalogi (MASD).\nBeskrivelse / Description:Hold 05.\nUndervisningstype / Activity Type: Teoretiske øvelser/theoretical exercises.\nUnderviser / Staff: Sommer, Stefan.\nLokale / Room: øv - 1-0-10, Universitetsparken 1-3, DIKU: Universitetsparken 1-3 / DIKU.\nHold / Student Set: Hold 01;
 LOCATION:øv - 1-0-10, Universitetsparken 1-3, DIKU: Universitetsparken 1-3 / DIKU
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20241008T100000
+DTEND;TZID=Europe/Copenhagen:20241008T120000
+DTSTAMP:20250429T150056
+UID:60495DF69F90CDEC5FD9B3CABCC0ED64                                                                                                                                                                                                                                                                                                20241008T10000020250429T150056
+CLASS:PUBLIC
+CREATED:20250429T150056
+LAST-MODIFIED:20250429T150056
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5100-B1-1E24;Matematisk analyse og sandsynlighedsteori i datalogi (MASD) - Teoretiske øvelser/theoretical exercises
+DESCRIPTION:Aktivitet / Activity: Matematisk analyse og sandsynlighedsteori i datalogi (MASD).\nBeskrivelse / Description:Hold 2.\nUndervisningstype / Activity Type: Teoretiske øvelser/theoretical exercises.\nUnderviser / Staff: Sommer, Stefan.\nLokale / Room: øv - 1-0-26, Universitetsparken 1-3, DIKU: Universitetsparken 1-3 / DIKU.\nHold / Student Set: Hold 01;
+LOCATION:øv - 1-0-26, Universitetsparken 1-3, DIKU: Universitetsparken 1-3 / DIKU
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -2187,21 +2187,6 @@ BEGIN:VEVENT
 DTSTART;TZID=Europe/Copenhagen:20241031T130000
 DTEND;TZID=Europe/Copenhagen:20241031T160000
 DTSTAMP:20250429T150056
-UID:60495DF69F90CDEC5FD9B3CABCC0EDDE                                                                                                                                                                                                                                                                                                20241031T13000020250429T150056
-CLASS:PUBLIC
-CREATED:20250429T150056
-LAST-MODIFIED:20250429T150056
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:5100-B1-1E24;Matematisk analyse og sandsynlighedsteori i datalogi (MASD) - Teoretiske øvelser/theoretical exercises
-DESCRIPTION:Aktivitet / Activity: Matematisk analyse og sandsynlighedsteori i datalogi (MASD).\nBeskrivelse / Description:Hold 2.\nUndervisningstype / Activity Type: Teoretiske øvelser/theoretical exercises.\nUnderviser / Staff: Sommer, Stefan.\nLokale / Room: øv - 4-0-13, Ole Maaløes Vej 5, Biocenter: Ole Maaløes Vej 5 / Biocentret.\nHold / Student Set: Hold 01;
-LOCATION:øv - 4-0-13, Ole Maaløes Vej 5, Biocenter: Ole Maaløes Vej 5 / Biocentret
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Copenhagen:20241031T130000
-DTEND;TZID=Europe/Copenhagen:20241031T160000
-DTSTAMP:20250429T150056
 UID:60495DF69F90CDEC5FD9B3CABCC0EDE2                                                                                                                                                                                                                                                                                                20241031T13000020250429T150056
 CLASS:PUBLIC
 CREATED:20250429T150056
@@ -2256,6 +2241,21 @@ STATUS:CONFIRMED
 SUMMARY:5100-B1-1E24;Matematisk analyse og sandsynlighedsteori i datalogi (MASD) - Teoretiske øvelser/theoretical exercises
 DESCRIPTION:Aktivitet / Activity: Matematisk analyse og sandsynlighedsteori i datalogi (MASD).\nBeskrivelse / Description:Hold 05.\nUndervisningstype / Activity Type: Teoretiske øvelser/theoretical exercises.\nUnderviser / Staff: Sommer, Stefan.\nLokale / Room: øv - 3-0-25, Universitetsparken 1-3, DIKU: Universitetsparken 1-3 / DIKU.\nHold / Student Set: Hold 01;
 LOCATION:øv - 3-0-25, Universitetsparken 1-3, DIKU: Universitetsparken 1-3 / DIKU
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20241031T130000
+DTEND;TZID=Europe/Copenhagen:20241031T160000
+DTSTAMP:20250429T150056
+UID:60495DF69F90CDEC5FD9B3CABCC0EDDE                                                                                                                                                                                                                                                                                                20241031T13000020250429T150056
+CLASS:PUBLIC
+CREATED:20250429T150056
+LAST-MODIFIED:20250429T150056
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:5100-B1-1E24;Matematisk analyse og sandsynlighedsteori i datalogi (MASD) - Teoretiske øvelser/theoretical exercises
+DESCRIPTION:Aktivitet / Activity: Matematisk analyse og sandsynlighedsteori i datalogi (MASD).\nBeskrivelse / Description:Hold 2.\nUndervisningstype / Activity Type: Teoretiske øvelser/theoretical exercises.\nUnderviser / Staff: Sommer, Stefan.\nLokale / Room: øv - 4-0-13, Ole Maaløes Vej 5, Biocenter: Ole Maaløes Vej 5 / Biocentret.\nHold / Student Set: Hold 01;
+LOCATION:øv - 4-0-13, Ole Maaløes Vej 5, Biocenter: Ole Maaløes Vej 5 / Biocentret
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
