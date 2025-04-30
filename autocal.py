@@ -101,13 +101,13 @@ assignments_url = "https://absalon.instructure.com/feeds/calendars/user_xsBGWlGB
 
 downloaded_ical_lectures = download_ical(ical_url, "latest_calendar_lectures.ics")
 if downloaded_ical_lectures:
-    process_ical_lectures_and_exercises(downloaded_ical_lectures, "cleaned_calendar_lectures.ics")
-    print("Processed iCal file for lectures and exercises saved as cleaned_calendar_lectures.ics")
+    process_ical_lectures_and_exercises(downloaded_ical_lectures, "events.ics")
+    print("Processed iCal file for lectures and exercises saved as events.ics")
 
 downloaded_ical_assignments = download_ical(assignments_url, "latest_calendar_assignments.ics")
 if downloaded_ical_assignments:
-    process_ical_assignments(downloaded_ical_assignments, "cleaned_calendar_assignments.ics")
-    print("Processed iCal file for assignments saved as cleaned_calendar_assignments.ics")
+    process_ical_assignments(downloaded_ical_assignments, "assignments.ics")
+    print("Processed iCal file for assignments saved as assignments.ics")
 
 # Remove downloaded calendar files on exit
 try:
