@@ -151,7 +151,7 @@ X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
  t of the final project submission.</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250430T055200Z
+DTSTAMP:20250501T124900Z
 UID:event-assignment-237556
 DTSTART;VALUE=DATE;VALUE=DATE:20250507
 CLASS:PUBLIC
@@ -159,7 +159,7 @@ DESCRIPTION:The assignment text (in html format) is in [assignment2.html]
  (https://absalon.instructure.com/courses/80788/files/9550673?wrap=1). Plea
  se read the submission-format instructions carefully.\n\nThe handed-out co
  de skeletons are in [code.zip] (https://absalon.instructure.com/courses/80
- 788/files/9550680?wrap=1).\n\n[This submission point will open shortly.]
+ 788/files/9550680?wrap=1).
 SEQUENCE:0
 SUMMARY:IPS - Weekly-2 
  rse_80788&month=05&year=2025#assignment_237556
@@ -180,9 +180,7 @@ X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
  788/files/9550680?wrap=1" target="_blank" data-api-endpoint="https://absal
  on.instructure.com/api/v1/courses/80788/files/9550680" data-api-returntype
  ="File">code.zip</a><span><span class="instructure_file_holder link_holder
-  instructure_file_link_holder">.</span></span></p>\n<p><span><span class="
- instructure_file_holder link_holder instructure_file_link_holder">[This su
- bmission point will open shortly.]</span></span></p>
+  instructure_file_link_holder">.</span></span></p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20250428T170000Z
