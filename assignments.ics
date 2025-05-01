@@ -53,7 +53,7 @@ X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
  ger.</p>\n<p>&nbsp\;</p>\n<p>KH\, Simon</p>\n<p>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250501T085600Z
+DTSTAMP:20250501T134300Z
 UID:event-assignment-237217
 DTSTART;VALUE=DATE;VALUE=DATE:20250430
 CLASS:PUBLIC
