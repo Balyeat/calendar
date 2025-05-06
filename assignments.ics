@@ -249,7 +249,7 @@ X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
  ctivity in the course</a>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250428T174800Z
+DTSTAMP:20250506T053100Z
 UID:event-assignment-237000
 DTSTART;VALUE=DATE;VALUE=DATE:20250508
 CLASS:PUBLIC
@@ -305,7 +305,7 @@ X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
  </a> under the "Computer Shop" example)</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250428T174900Z
+DTSTAMP:20250506T053100Z
 UID:event-assignment-237001
 DTSTART;VALUE=DATE;VALUE=DATE:20250515
 CLASS:PUBLIC
@@ -375,7 +375,7 @@ X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
  p registration\, will follow.</span></span></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250428T175200Z
+DTSTAMP:20250506T053100Z
 UID:event-assignment-237003
 DTSTART;VALUE=DATE;VALUE=DATE:20250605
 CLASS:PUBLIC
