@@ -151,7 +151,7 @@ X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
  t of the final project submission.</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250509T102600Z
+DTSTAMP:20250510T092000Z
 UID:event-assignment-237556
 DTSTART;VALUE=DATE;VALUE=DATE:20250507
 CLASS:PUBLIC
@@ -305,7 +305,7 @@ X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
  </a> under the "Computer Shop" example)</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250507T064500Z
+DTSTAMP:20250510T085200Z
 UID:event-assignment-237854
 DTSTART;VALUE=DATE;VALUE=DATE:20250514
 CLASS:PUBLIC
@@ -313,7 +313,7 @@ DESCRIPTION:The assignment text (in html format) is in [assignment3.html] (
  https://absalon.instructure.com/courses/80788/files/9582390?wrap=1). There
   is no (executable) code to hand in this week\; instead\, you should make 
  a push to complete as much of the group project as possible over the next 
- two weeks.\n\n[This submission point will open shortly.]
+ two weeks.
 SEQUENCE:0
 SUMMARY:IPS - Weekly-3 
  rse_80788&month=05&year=2025#assignment_237854
@@ -330,7 +330,7 @@ X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
  r link_holder instructure_file_link_holder">assignment3.html</span></a>. T
  here is no (executable) code to hand in this week\; instead\, you should m
  ake a push to complete as much of the group project as possible over the n
- ext two weeks.</p>\n<p>[This submission point will open shortly.]</p>
+ ext two weeks.</p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20250506T053100Z
