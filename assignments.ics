@@ -283,7 +283,7 @@ X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
  </a> under the "Computer Shop" example)</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250518T151500Z
+DTSTAMP:20250518T162400Z
 UID:event-assignment-237854
 DTSTART;VALUE=DATE;VALUE=DATE:20250514
 CLASS:PUBLIC
