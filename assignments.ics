@@ -344,6 +344,73 @@ X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
  ile_link_holder">PostgreSQL import script</span></a></p>
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20250519T074300Z
+UID:event-assignment-238353
+DTSTART;VALUE=DATE;VALUE=DATE:20250523
+CLASS:PUBLIC
+DESCRIPTION:This is where you submit the milestone for the group project 
+ — please submit exactly once per group. (That is\, if you want to revise
+  your submission before the deadline\, this should be done by the same per
+ son as the one who made the initial submission.)\n\nBy the milestone deadl
+ ine\, you should be mostly done with the main coding work (even if some bu
+ gs remain)\, and have started on testing and report writing.  If you have
+  parts of the report already written\, you are also strongly encouraged to
+  submit those for preliminary feedback. (And it may help the TAs better un
+ derstand your code\, so you may get more useful comments on that.) But in 
+ any case\, please at least include a brief summary of what works (to the b
+ est of your knowledge)\, what is partially or mostly done\, and what you h
+ aven't started yet. Also\, be sure to note anything that you particularly 
+ want feedback on\, or help with.\n\nPlease follow the same format as for t
+ he final submission. In particular\, do not include any compiled binaries 
+ in your zip archive\, and make sure to upload the report as a separate PDF
+  file\, not packaged up inside the zip file.\n\nNote: We are not using Abs
+ alon groups for this submission. This means that only one group member sho
+ uld submit for the group (and share the TA's feedback with the group)\, bu
+ t you must prominently state the names and KU ids of all group members on 
+ the first/front page of the report. We will use this information to set up
+  the Absalon project groups for the actual submission. Therefore\, even if
+  you are working alone\, you must register your one-person group by submit
+ ting at least a pro forma report by the milestone deadline.
+SEQUENCE:0
+SUMMARY:IPS - Project milestone submission and group registration 
+URL;VALUE=URI:https://absalon.instructure.com/calendar?include_contexts=cou
+ rse_80788&month=05&year=2025#assignment_238353
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
+ re-uploads-eu.s3-eu-west-1.amazonaws.com/account_75000000000000001/attachm
+ ents/12157/ku.css?AWSAccessKeyId=AKIAJE5F5SJN3PUW3VNQ&amp\;Expires=1935550
+ 004&amp\;Signature=o5N8bL80JiimMi8No2Nn8uhsP0s%3D&amp\;response-cache-cont
+ rol=Cache-Control%3Amax-age%3D473364000%2C%20public&amp\;response-expires=
+ 473364000">    <p><span style="font-size: 12pt\;">This is where you submit
+  the milestone for the group project — please submit exactly once per gr
+ oup. (That is\, if you want to revise your submission before the deadline\
+ , this should be done by the <strong>same</strong> person as the one who m
+ ade the initial submission.)</span></p>\n    <p><span style="font-size: 12
+ pt\;">By the milestone deadline\, you should be mostly done with the main 
+ coding work (even if some bugs remain)\, and have started on testing and r
+ eport writing.&nbsp\; If you have parts of the report already written\, yo
+ u are also strongly encouraged to submit those for preliminary feedback. (
+ And it may help the TAs better understand your code\, so you may get more 
+ useful comments on that.) But in any case\, please at least include a<stro
+ ng> brief summary</strong> of what works (to the best of your knowledge)\,
+  what is partially or mostly done\, and what you haven't started yet. Also
+ \, be sure to note anything that you <strong>particularly want feedback on
+ \, or help with</strong>.</span></p>\n    <p><span style="font-size: 12pt\
+ ;">Please follow the same format as for the final submission. In particula
+ r\, <strong>do not include any compiled binaries</strong> in your zip arch
+ ive\, and make sure to upload the report as a separate PDF file\, <strong>
+ not</strong> packaged up inside the zip file.</span></p>\n    <p><span sty
+ le="font-size: 12pt\;"><strong>Note:</strong> We are not using Absalon gro
+ ups for <em>this</em> submission. This means that only <strong>one</strong
+ > group member should submit for the group (and share the TA's feedback wi
+ th the group)\, but you must <span style="background-color: #ff6600\;"><sp
+ an style="background-color: #00ffff\;">prominently state the names and KU 
+ ids of <strong>all</strong> group members on the first/front page of the r
+ eport.</span></span> We will use this information to set up the Absalon pr
+ oject groups for the actual submission. Therefore\, <strong>even if you ar
+ e working alone</strong>\, you must register your one-person group by subm
+ itting at least a pro forma report by the milestone deadline.</span></p>\n
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20250519T062000Z
 UID:event-assignment-238352
 DTSTART;VALUE=DATE;VALUE=DATE:20250526
