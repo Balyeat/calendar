@@ -6,31 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Casper Halle Berthelsen Calendar (Canvas)
 X-WR-CALDESC:Calendar events for the user\, Casper Halle Berthelsen
 BEGIN:VEVENT
-DTSTAMP:20250422T091600Z
-UID:event-assignment-237192
-DTSTART:20250425T130000Z
-DTEND:20250425T130000Z
-CLASS:PUBLIC
-DESCRIPTION:Kære studerende\,\n\n \n\nHåber du/I havde en god påske.\n\
- n \n\nUpload din one-pager\, så vil jeg dele den med KOMBIT. Du må afle
- vere den anonymt\, som med dit/jeres navn(e).\n\n \n\nJeg håber flere af
-  jer vil dele jeres one-pager.\n\n \n\nKH\, Simon\n\n 
-SEQUENCE:0
-SUMMARY:Participatory design af informationssystemer - Del din Aula one-pager med KOMBIT? 
-URL;VALUE=URI:https://absalon.instructure.com/calendar?include_contexts=cou
- rse_80524&month=04&year=2025#assignment_237192
-X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
- re-uploads-eu.s3-eu-west-1.amazonaws.com/account_75000000000000001/attachm
- ents/12157/ku.css?AWSAccessKeyId=AKIAJE5F5SJN3PUW3VNQ&amp\;Expires=1935550
- 004&amp\;Signature=o5N8bL80JiimMi8No2Nn8uhsP0s%3D&amp\;response-cache-cont
- rol=Cache-Control%3Amax-age%3D473364000%2C%20public&amp\;response-expires=
- 473364000"><p>Kære studerende\,</p>\n<p>&nbsp\;</p>\n<p>Håber du/I havde
-  en god påske.</p>\n<p>&nbsp\;</p>\n<p>Upload din one-pager\, så vil jeg
-  dele den med KOMBIT. Du må aflevere den anonymt\, som med dit/jeres navn
- (e).</p>\n<p>&nbsp\;</p>\n<p>Jeg håber flere af jer vil dele jeres one-pa
- ger.</p>\n<p>&nbsp\;</p>\n<p>KH\, Simon</p>\n<p>&nbsp\;</p>
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20250506T162700Z
 UID:event-assignment-237217
 DTSTART;VALUE=DATE;VALUE=DATE:20250430
@@ -344,7 +319,7 @@ X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
  ile_link_holder">PostgreSQL import script</span></a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250524T053900Z
+DTSTAMP:20250525T153800Z
 UID:event-assignment-238353
 DTSTART;VALUE=DATE;VALUE=DATE:20250523
 CLASS:PUBLIC
