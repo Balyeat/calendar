@@ -386,7 +386,7 @@ X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
  a pro forma report by the milestone deadline.</span></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250519T062000Z
+DTSTAMP:20250526T220000Z
 UID:event-assignment-238352
 DTSTART;VALUE=DATE;VALUE=DATE:20250526
 CLASS:PUBLIC
