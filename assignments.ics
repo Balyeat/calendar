@@ -319,7 +319,7 @@ X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
  ile_link_holder">PostgreSQL import script</span></a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250526T082300Z
+DTSTAMP:20250526T203600Z
 UID:event-assignment-238353
 DTSTART;VALUE=DATE;VALUE=DATE:20250523
 CLASS:PUBLIC
