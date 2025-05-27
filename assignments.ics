@@ -286,7 +286,7 @@ X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
  ext two weeks.</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250506T053100Z
+DTSTAMP:20250527T070400Z
 UID:event-assignment-237001
 DTSTART;VALUE=DATE;VALUE=DATE:20250515
 CLASS:PUBLIC
@@ -386,7 +386,7 @@ X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
  a pro forma report by the milestone deadline.</span></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250526T220000Z
+DTSTAMP:20250527T052900Z
 UID:event-assignment-238352
 DTSTART;VALUE=DATE;VALUE=DATE:20250526
 CLASS:PUBLIC
@@ -409,7 +409,7 @@ X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
  p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250523T073200Z
+DTSTAMP:20250527T053000Z
 UID:event-assignment-238512
 DTSTART;VALUE=DATE;VALUE=DATE:20250601
 CLASS:PUBLIC
@@ -417,8 +417,7 @@ DESCRIPTION:The text of the assignment is in [assignment5.html] (https://ab
  salon.instructure.com/courses/80788/files/9629036?wrap=1). Note that this 
  assignment is due on Sunday\, 1/6\, and that it cannot be resubmitted. Tas
  ks 3 and 4 refer to material that will be covered in Monday's lecture (and
-  of course also in the textbook). Task 5 is optional.\n\n[This submission 
- point will open shortly.]
+  of course also in the textbook). Task 5 is optional.
 SEQUENCE:0
 SUMMARY:IPS - Weekly-5 
  rse_80788&month=06&year=2025#assignment_238512
@@ -436,9 +435,7 @@ X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
  ignment is due on <strong>Sunday\, 1/6</strong>\, and that it cannot be re
  submitted. Tasks 3 and 4 refer to material that will be covered in Monday'
  s lecture (and of course also in the textbook). Task 5 is <strong>optional
- </strong>.</span></p>\n<p><span class="instructure_file_holder link_holder
-  instructure_file_link_holder">[This submission point will open shortly.]<
- /span></p>
+ </strong>.</span></p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20250428T101800Z
