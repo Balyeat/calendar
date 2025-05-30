@@ -6,36 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Casper Halle Berthelsen Calendar (Canvas)
 X-WR-CALDESC:Calendar events for the user\, Casper Halle Berthelsen
 BEGIN:VEVENT
-DTSTAMP:20250506T162700Z
-UID:event-assignment-237217
-DTSTART;VALUE=DATE;VALUE=DATE:20250430
-CLASS:PUBLIC
-DESCRIPTION:The assignment text (in html format) is in [assignment1.html] (
- https://absalon.instructure.com/courses/80788/files/9532514?wrap=1). Pleas
- e read the submission-format instructions carefully.\n\nThe handed-out cod
- e skeleton for the calculator program of Task 2 is in [calculator.fsx] (ht
- tps://absalon.instructure.com/courses/80788/files/9531615?wrap=1).
-SEQUENCE:0
-SUMMARY:IPS - Weekly-1 
- rse_80788&month=04&year=2025#assignment_237217
-X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
- re-uploads-eu.s3-eu-west-1.amazonaws.com/account_75000000000000001/attachm
- ents/12157/ku.css?AWSAccessKeyId=AKIAJE5F5SJN3PUW3VNQ&amp\;Expires=1935550
- 004&amp\;Signature=o5N8bL80JiimMi8No2Nn8uhsP0s%3D&amp\;response-cache-cont
- rol=Cache-Control%3Amax-age%3D473364000%2C%20public&amp\;response-expires=
- 473364000"><p>The assignment text (in html format) is in <a class="instruc
- ture_file_link inline_disabled" title="assignment1.html" href="https://abs
- alon.instructure.com/courses/80788/files/9532514?wrap=1" target="_blank" d
- ata-api-endpoint="https://absalon.instructure.com/api/v1/courses/80788/fil
- es/9532514" data-api-returntype="File">assignment1.html</a>. Please read t
- he submission-format instructions carefully.</p>\n<p>The handed-out code s
- keleton for the calculator program of Task 2 is in <a class="instructure_f
- ile_link inline_disabled" title="calculator.fsx" href="https://absalon.ins
- tructure.com/courses/80788/files/9531615?wrap=1" target="_blank" data-api-
- endpoint="https://absalon.instructure.com/api/v1/courses/80788/files/95316
- 15" data-api-returntype="File">calculator.fsx</a>.</p>
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20250428T170700Z
 UID:event-calendar-event-193470
 DTSTART:20250501T215900Z
