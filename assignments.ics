@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Casper Halle Berthelsen Calendar (Canvas)
 X-WR-CALDESC:Calendar events for the user\, Casper Halle Berthelsen
 BEGIN:VEVENT
-DTSTAMP:20250515T141300Z
+DTSTAMP:20250601T082900Z
 UID:event-assignment-237556
 DTSTART;VALUE=DATE;VALUE=DATE:20250507
 CLASS:PUBLIC
@@ -160,7 +160,7 @@ X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
  </a> under the "Computer Shop" example)</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250519T105500Z
+DTSTAMP:20250601T082900Z
 UID:event-assignment-237854
 DTSTART;VALUE=DATE;VALUE=DATE:20250514
 CLASS:PUBLIC
