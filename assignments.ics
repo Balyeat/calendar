@@ -340,7 +340,7 @@ X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
  </strong>.</span></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250603T054900Z
+DTSTAMP:20250604T145000Z
 UID:event-assignment-238581
 DTSTART;VALUE=DATE;VALUE=DATE:20250602
 CLASS:PUBLIC
@@ -361,7 +361,8 @@ DESCRIPTION:The project description is here: [GroupProj-2025.pdf] (https://
  rectory and verify that make or dotnet build -v d Fasto works!)\, tests di
  rectory\, and project report\, but no binaries\, as detailed in Section 1.
  4 of the project description document. And please upload the report as a s
- eparate PDF file\, not packaged up inside the zip archive.
+ eparate PDF file\, not packaged up inside the zip archive.\n\nNote: a scor
+ e of 6 or more for this assignment means that the project is passed.
 SEQUENCE:0
 SUMMARY:IPS - Group Project submission 
 URL;VALUE=URI:https://absalon.instructure.com/calendar?include_contexts=cou
@@ -404,7 +405,10 @@ X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
  et build -v d Fasto</code> works!)\, tests directory\, and project report\
  , but <strong>no binaries</strong>\, as detailed in Section 1.4 of the pro
  ject description document. And please upload the report as a <em>separate<
- /em> PDF file\, not packaged up inside the zip archive.</span></p>
+ /em> PDF file\, not packaged up inside the zip archive.</span></p>\n<p><sp
+ an style="font-size: 12pt\; background-color: #ffff00\;"><strong>Note</str
+ ong>: a score of 6 or more for this assignment means that the project is p
+ assed.</span></p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20250506T053100Z
