@@ -1047,6 +1047,21 @@ BEGIN:VEVENT
 DTSTART;TZID=Europe/Copenhagen:20240926T130000
 DTEND;TZID=Europe/Copenhagen:20240926T160000
 DTSTAMP:20250611T150052
+UID:43C16463526FDC975B4815034D94E639                                                                                                                                                                                                                                                                                                20240926T13000020250611T150052
+CLASS:PUBLIC
+CREATED:20250611T150052
+LAST-MODIFIED:20250611T150052
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Matematisk analyse og sandsynlighedsteori i datalogi (MASD) - Exercise
+DESCRIPTION:Teacher: Sommer, Stefan.\nRoom: øv - 4-0-05, Ole Maaløes Vej 5, Biocenter: Ole Maaløes Vej 5 / Biocentret.\nGroup: Hold 01;
+LOCATION:4-0-05, Ole Maaløes Vej 5, Biocenter: Ole Maaløes Vej 5 / Biocentret
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20240926T130000
+DTEND;TZID=Europe/Copenhagen:20240926T160000
+DTSTAMP:20250611T150052
 UID:60495DF69F90CDEC5FD9B3CABCC0EDE0                                                                                                                                                                                                                                                                                                20240926T13000020250611T150052
 CLASS:PUBLIC
 CREATED:20250611T150052
@@ -1101,21 +1116,6 @@ STATUS:CONFIRMED
 SUMMARY:Matematisk analyse og sandsynlighedsteori i datalogi (MASD) - Exercise
 DESCRIPTION:Teacher: Sommer, Stefan.\nRoom: øv - 3-0-25, Universitetsparken 1-3, DIKU: Universitetsparken 1-3 / DIKU.\nGroup: Hold 01;
 LOCATION:3-0-25, Universitetsparken 1-3, DIKU: Universitetsparken 1-3 / DIKU
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Copenhagen:20240926T130000
-DTEND;TZID=Europe/Copenhagen:20240926T160000
-DTSTAMP:20250611T150052
-UID:43C16463526FDC975B4815034D94E639                                                                                                                                                                                                                                                                                                20240926T13000020250611T150052
-CLASS:PUBLIC
-CREATED:20250611T150052
-LAST-MODIFIED:20250611T150052
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Matematisk analyse og sandsynlighedsteori i datalogi (MASD) - Exercise
-DESCRIPTION:Teacher: Sommer, Stefan.\nRoom: øv - 4-0-05, Ole Maaløes Vej 5, Biocenter: Ole Maaløes Vej 5 / Biocentret.\nGroup: Hold 01;
-LOCATION:4-0-05, Ole Maaløes Vej 5, Biocenter: Ole Maaløes Vej 5 / Biocentret
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -1617,6 +1617,21 @@ BEGIN:VEVENT
 DTSTART;TZID=Europe/Copenhagen:20241010T130000
 DTEND;TZID=Europe/Copenhagen:20241010T160000
 DTSTAMP:20250611T150052
+UID:60495DF69F90CDEC5FD9B3CABCC0EDDE                                                                                                                                                                                                                                                                                                20241010T13000020250611T150052
+CLASS:PUBLIC
+CREATED:20250611T150052
+LAST-MODIFIED:20250611T150052
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Matematisk analyse og sandsynlighedsteori i datalogi (MASD) - Exercise
+DESCRIPTION:Teacher: Sommer, Stefan.\nRoom: øv - 4-0-13, Ole Maaløes Vej 5, Biocenter: Ole Maaløes Vej 5 / Biocentret.\nGroup: Hold 01;
+LOCATION:4-0-13, Ole Maaløes Vej 5, Biocenter: Ole Maaløes Vej 5 / Biocentret
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20241010T130000
+DTEND;TZID=Europe/Copenhagen:20241010T160000
+DTSTAMP:20250611T150052
 UID:60495DF69F90CDEC5FD9B3CABCC0EDE2                                                                                                                                                                                                                                                                                                20241010T13000020250611T150052
 CLASS:PUBLIC
 CREATED:20250611T150052
@@ -1671,21 +1686,6 @@ STATUS:CONFIRMED
 SUMMARY:Matematisk analyse og sandsynlighedsteori i datalogi (MASD) - Exercise
 DESCRIPTION:Teacher: Sommer, Stefan.\nRoom: øv - 3-0-25, Universitetsparken 1-3, DIKU: Universitetsparken 1-3 / DIKU.\nGroup: Hold 01;
 LOCATION:3-0-25, Universitetsparken 1-3, DIKU: Universitetsparken 1-3 / DIKU
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Copenhagen:20241010T130000
-DTEND;TZID=Europe/Copenhagen:20241010T160000
-DTSTAMP:20250611T150052
-UID:60495DF69F90CDEC5FD9B3CABCC0EDDE                                                                                                                                                                                                                                                                                                20241010T13000020250611T150052
-CLASS:PUBLIC
-CREATED:20250611T150052
-LAST-MODIFIED:20250611T150052
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Matematisk analyse og sandsynlighedsteori i datalogi (MASD) - Exercise
-DESCRIPTION:Teacher: Sommer, Stefan.\nRoom: øv - 4-0-13, Ole Maaløes Vej 5, Biocenter: Ole Maaløes Vej 5 / Biocentret.\nGroup: Hold 01;
-LOCATION:4-0-13, Ole Maaløes Vej 5, Biocenter: Ole Maaløes Vej 5 / Biocentret
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -1767,6 +1767,21 @@ BEGIN:VEVENT
 DTSTART;TZID=Europe/Copenhagen:20241022T100000
 DTEND;TZID=Europe/Copenhagen:20241022T120000
 DTSTAMP:20250611T150052
+UID:60495DF69F90CDEC5FD9B3CABCC0ED6A                                                                                                                                                                                                                                                                                                20241022T10000020250611T150052
+CLASS:PUBLIC
+CREATED:20250611T150052
+LAST-MODIFIED:20250611T150052
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Matematisk analyse og sandsynlighedsteori i datalogi (MASD) - Exercise
+DESCRIPTION:Teacher: Sommer, Stefan.\nRoom: øv - 1-0-10, Universitetsparken 1-3, DIKU: Universitetsparken 1-3 / DIKU.\nGroup: Hold 01;
+LOCATION:1-0-10, Universitetsparken 1-3, DIKU: Universitetsparken 1-3 / DIKU
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20241022T100000
+DTEND;TZID=Europe/Copenhagen:20241022T120000
+DTSTAMP:20250611T150052
 UID:60495DF69F90CDEC5FD9B3CABCC0ED66                                                                                                                                                                                                                                                                                                20241022T10000020250611T150052
 CLASS:PUBLIC
 CREATED:20250611T150052
@@ -1821,21 +1836,6 @@ STATUS:CONFIRMED
 SUMMARY:Matematisk analyse og sandsynlighedsteori i datalogi (MASD) - Exercise
 DESCRIPTION:Teacher: Sommer, Stefan.\nRoom: øv - 1-0-22, Universitetsparken 1-3, DIKU: Universitetsparken 1-3 / DIKU.\nGroup: Hold 01;
 LOCATION:1-0-22, Universitetsparken 1-3, DIKU: Universitetsparken 1-3 / DIKU
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Copenhagen:20241022T100000
-DTEND;TZID=Europe/Copenhagen:20241022T120000
-DTSTAMP:20250611T150052
-UID:60495DF69F90CDEC5FD9B3CABCC0ED6A                                                                                                                                                                                                                                                                                                20241022T10000020250611T150052
-CLASS:PUBLIC
-CREATED:20250611T150052
-LAST-MODIFIED:20250611T150052
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Matematisk analyse og sandsynlighedsteori i datalogi (MASD) - Exercise
-DESCRIPTION:Teacher: Sommer, Stefan.\nRoom: øv - 1-0-10, Universitetsparken 1-3, DIKU: Universitetsparken 1-3 / DIKU.\nGroup: Hold 01;
-LOCATION:1-0-10, Universitetsparken 1-3, DIKU: Universitetsparken 1-3 / DIKU
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -2052,6 +2052,21 @@ BEGIN:VEVENT
 DTSTART;TZID=Europe/Copenhagen:20241029T100000
 DTEND;TZID=Europe/Copenhagen:20241029T120000
 DTSTAMP:20250611T150052
+UID:60495DF69F90CDEC5FD9B3CABCC0ED6A                                                                                                                                                                                                                                                                                                20241029T10000020250611T150052
+CLASS:PUBLIC
+CREATED:20250611T150052
+LAST-MODIFIED:20250611T150052
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Matematisk analyse og sandsynlighedsteori i datalogi (MASD) - Exercise
+DESCRIPTION:Teacher: Sommer, Stefan.\nRoom: øv - 1-0-10, Universitetsparken 1-3, DIKU: Universitetsparken 1-3 / DIKU.\nGroup: Hold 01;
+LOCATION:1-0-10, Universitetsparken 1-3, DIKU: Universitetsparken 1-3 / DIKU
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Copenhagen:20241029T100000
+DTEND;TZID=Europe/Copenhagen:20241029T120000
+DTSTAMP:20250611T150052
 UID:60495DF69F90CDEC5FD9B3CABCC0ED64                                                                                                                                                                                                                                                                                                20241029T10000020250611T150052
 CLASS:PUBLIC
 CREATED:20250611T150052
@@ -2106,21 +2121,6 @@ STATUS:CONFIRMED
 SUMMARY:Matematisk analyse og sandsynlighedsteori i datalogi (MASD) - Exercise
 DESCRIPTION:Teacher: Sommer, Stefan.\nRoom: øv - 1-0-30, Universitetsparken 1-3, DIKU: Universitetsparken 1-3 / DIKU.\nGroup: Hold 01;
 LOCATION:1-0-30, Universitetsparken 1-3, DIKU: Universitetsparken 1-3 / DIKU
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Copenhagen:20241029T100000
-DTEND;TZID=Europe/Copenhagen:20241029T120000
-DTSTAMP:20250611T150052
-UID:60495DF69F90CDEC5FD9B3CABCC0ED6A                                                                                                                                                                                                                                                                                                20241029T10000020250611T150052
-CLASS:PUBLIC
-CREATED:20250611T150052
-LAST-MODIFIED:20250611T150052
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Matematisk analyse og sandsynlighedsteori i datalogi (MASD) - Exercise
-DESCRIPTION:Teacher: Sommer, Stefan.\nRoom: øv - 1-0-10, Universitetsparken 1-3, DIKU: Universitetsparken 1-3 / DIKU.\nGroup: Hold 01;
-LOCATION:1-0-10, Universitetsparken 1-3, DIKU: Universitetsparken 1-3 / DIKU
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
