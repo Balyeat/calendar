@@ -6,34 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Casper Halle Berthelsen Calendar (Canvas)
 X-WR-CALDESC:Calendar events for the user\, Casper Halle Berthelsen
 BEGIN:VEVENT
-DTSTAMP:20250601T082900Z
-UID:event-assignment-237854
-DTSTART;VALUE=DATE;VALUE=DATE:20250514
-CLASS:PUBLIC
-DESCRIPTION:The assignment text (in html format) is in [assignment3.html] (
- https://absalon.instructure.com/courses/80788/files/9582390?wrap=1). There
-  is no (executable) code to hand in this week\; instead\, you should make 
- a push to complete as much of the group project as possible over the next 
- two weeks.
-SEQUENCE:0
-SUMMARY:IPS - Weekly-3 
- rse_80788&month=05&year=2025#assignment_237854
-X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
- re-uploads-eu.s3-eu-west-1.amazonaws.com/account_75000000000000001/attachm
- ents/12157/ku.css?AWSAccessKeyId=AKIAJE5F5SJN3PUW3VNQ&amp\;Expires=1935550
- 004&amp\;Signature=o5N8bL80JiimMi8No2Nn8uhsP0s%3D&amp\;response-cache-cont
- rol=Cache-Control%3Amax-age%3D473364000%2C%20public&amp\;response-expires=
- 473364000"><p>The assignment text (in html format) is in <a class="instruc
- ture_file_link inline_disabled" title="assignment3.html" href="https://abs
- alon.instructure.com/courses/80788/files/9582390?wrap=1" target="_blank" d
- ata-api-endpoint="https://absalon.instructure.com/api/v1/courses/80788/fil
- es/9582390" data-api-returntype="File"><span class="instructure_file_holde
- r link_holder instructure_file_link_holder">assignment3.html</span></a>. T
- here is no (executable) code to hand in this week\; instead\, you should m
- ake a push to complete as much of the group project as possible over the n
- ext two weeks.</p>
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20250527T070400Z
 UID:event-assignment-237001
 DTSTART;VALUE=DATE;VALUE=DATE:20250515
