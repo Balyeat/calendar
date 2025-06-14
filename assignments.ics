@@ -6,39 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Casper Halle Berthelsen Calendar (Canvas)
 X-WR-CALDESC:Calendar events for the user\, Casper Halle Berthelsen
 BEGIN:VEVENT
-DTSTAMP:20250527T070400Z
-UID:event-assignment-237001
-DTSTART;VALUE=DATE;VALUE=DATE:20250515
-CLASS:PUBLIC
-DESCRIPTION:This is your second mandatory DIS assignment. Please submit you
- r solution as a single PDF or TXT file.\n\n[Assignment text] (https://absa
- lon.instructure.com/courses/80662/files/9546220?wrap=1)\n\n[PostgreSQL imp
- ort script] (https://absalon.instructure.com/courses/80662/files/9522775?w
- rap=1)
-SEQUENCE:0
-SUMMARY:DIS - Mandatory Assignment 2 
-URL;VALUE=URI:https://absalon.instructure.com/calendar?include_contexts=cou
- rse_80662&month=05&year=2025#assignment_237001
-X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
- re-uploads-eu.s3-eu-west-1.amazonaws.com/account_75000000000000001/attachm
- ents/12157/ku.css?AWSAccessKeyId=AKIAJE5F5SJN3PUW3VNQ&amp\;Expires=1935550
- 004&amp\;Signature=o5N8bL80JiimMi8No2Nn8uhsP0s%3D&amp\;response-cache-cont
- rol=Cache-Control%3Amax-age%3D473364000%2C%20public&amp\;response-expires=
- 473364000"><p>This is your second mandatory DIS assignment. Please submit 
- your solution as a single PDF or TXT file.</p>\n<p><a id="9546220" class="
- instructure_file_link instructure_scribd_file inline_disabled" href="https
- ://absalon.instructure.com/courses/80662/files/9546220?wrap=1" target="_bl
- ank" data-canvas-previewable="true" data-api-endpoint="https://absalon.ins
- tructure.com/api/v1/courses/80662/files/9546220" data-api-returntype="File
- "><span class="instructure_file_holder link_holder instructure_file_link_h
- older">Assignment text</span></a></p>\n<p><a id="9522775" class="instructu
- re_file_link inline_disabled" href="https://absalon.instructure.com/course
- s/80662/files/9522775?wrap=1" target="_blank" data-api-endpoint="https://a
- bsalon.instructure.com/api/v1/courses/80662/files/9522775" data-api-return
- type="File"><span class="instructure_file_holder link_holder instructure_f
- ile_link_holder">PostgreSQL import script</span></a></p>
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20250526T203600Z
 UID:event-assignment-238353
 DTSTART;VALUE=DATE;VALUE=DATE:20250523
