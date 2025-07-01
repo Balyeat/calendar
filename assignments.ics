@@ -6,35 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Casper Halle Berthelsen Calendar (Canvas)
 X-WR-CALDESC:Calendar events for the user\, Casper Halle Berthelsen
 BEGIN:VEVENT
-DTSTAMP:20250606T142700Z
-UID:event-assignment-238512
-DTSTART;VALUE=DATE;VALUE=DATE:20250601
-CLASS:PUBLIC
-DESCRIPTION:The text of the assignment is in [assignment5.html] (https://ab
- salon.instructure.com/courses/80788/files/9629036?wrap=1). Note that this 
- assignment is due on Sunday\, 1/6\, and that it cannot be resubmitted. Tas
- ks 3 and 4 refer to material that will be covered in Monday's lecture (and
-  of course also in the textbook). Task 5 is optional.
-SEQUENCE:0
-SUMMARY:IPS - Weekly-5 
- rse_80788&month=06&year=2025#assignment_238512
-X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
- re-uploads-eu.s3-eu-west-1.amazonaws.com/account_75000000000000001/attachm
- ents/12157/ku.css?AWSAccessKeyId=AKIAJE5F5SJN3PUW3VNQ&amp\;Expires=1935550
- 004&amp\;Signature=o5N8bL80JiimMi8No2Nn8uhsP0s%3D&amp\;response-cache-cont
- rol=Cache-Control%3Amax-age%3D473364000%2C%20public&amp\;response-expires=
- 473364000"><p>The text of the assignment is in <span class="instructure_fi
- le_holder link_holder instructure_file_link_holder"><a class="instructure_
- file_link inline_disabled" title="assignment5.html" href="https://absalon.
- instructure.com/courses/80788/files/9629036?wrap=1" target="_blank" data-a
- pi-endpoint="https://absalon.instructure.com/api/v1/courses/80788/files/96
- 29036" data-api-returntype="File">assignment5.html</a>. Note that this ass
- ignment is due on <strong>Sunday\, 1/6</strong>\, and that it cannot be re
- submitted. Tasks 3 and 4 refer to material that will be covered in Monday'
- s lecture (and of course also in the textbook). Task 5 is <strong>optional
- </strong>.</span></p>
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20250609T111500Z
 UID:event-assignment-238581
 DTSTART;VALUE=DATE;VALUE=DATE:20250602
